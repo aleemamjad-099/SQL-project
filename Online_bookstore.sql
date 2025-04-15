@@ -67,8 +67,6 @@ SELECT DISTINCT genre FROM Books;
 -- 10) find the book with the lowest stock
 SELECT * FROM Books ORDER BY stock LIMIT 1;
 
--- 11) calculate the total revenue generated from all order
-SELECT * FROM Orders;
 
 
 
